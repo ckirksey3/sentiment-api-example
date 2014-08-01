@@ -108,7 +108,7 @@ Using one of the methods above, your API should now be ready for use.
 
 Call one method of the API with curl (or with your browser if you want)
 
-	curl -X GET -g "http://localhost:5000/v2/words/fantastic.json
+	curl -X GET -g "http://localhost:5000/v2/words/fantastic.json"
 
 The above call returns 
 
